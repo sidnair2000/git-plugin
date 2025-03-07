@@ -11,9 +11,3 @@ A simple Git automation tool that scans a directory for `.git` repositories and 
   - `git push --tags`: Pushes local tags to the remote repository.
 - **Command-Line Interface**: Provides a user-friendly CLI using the `click` library.
 
-## Installation and Setup
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/sidnair2000/git-plugin.git
-   cd git-plugin
