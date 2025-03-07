@@ -10,4 +10,11 @@ A simple Git automation tool that scans a directory for `.git` repositories and 
 Clone the repository:  
 ```sh  
 git clone https://github.com/sidnair2000/git-plugin.git  
-cd git-plugin  
+cd git-plugin
+
+## Set up a virtual environment (optional but recommended):
+
+python -m venv venv  
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`  
+pip install -r requirements.txt  
+
